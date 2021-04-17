@@ -5,12 +5,12 @@ Site link : https://www.site.uottawa.ca/~gvj/Courses/ITI1121/index.html
 # Assignment 1
 
 ## Learning objectives
-
+```
 • Edit, compile and run Java programs
 • Utilize arrays to store information
 • Apply basic object-oriented programming concepts
 • Understand the university policies for academic integrity
-
+```
 # Introduction
 
 This year, we are going to implement, through a succession of assignments, a simplified version of a useful machine learning technique, called decision tree classification. If
