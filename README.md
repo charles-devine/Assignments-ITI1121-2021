@@ -2,6 +2,14 @@
 
 Site link : https://www.site.uottawa.ca/~gvj/Courses/ITI1121/index.html
 
+# Grades
+
+```python
+Assignment 1 - 98/100
+Assignment 2 - 95/100
+Assignment 3 - 110/100
+Assignment 4 - 110/100
+```
 ## Assignment 1
 
 # Learning objectives
